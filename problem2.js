@@ -34,3 +34,8 @@
 
  }
  console.log(sumThreeNumbers(10,20,30));
+
+ function makePositive(num){
+    return num*-1
+ }
+console.log(makePositive(-5));
